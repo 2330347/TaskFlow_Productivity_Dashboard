@@ -1,43 +1,84 @@
-# TaskFlow — AI-Powered Productivity Dashboard
+# ✨ TaskFlow – Productivity Dashboard
 
-A responsive React UI concept built for a UI/UX and frontend portfolio. The project demonstrates dashboard hierarchy, responsive layout, task interactions, filtering, task creation, reusable UI patterns, and an AI-inspired focus-plan interaction.
+A modern, clean, and interactive productivity dashboard built with **React**, **JavaScript**, and **CSS**. This project helps users organize daily tasks, manage priorities, track progress, and plan their workflow through a beautiful and intuitive interface.
 
-## Features
-- Responsive desktop, tablet, and mobile layouts
-- Sidebar navigation and dashboard cards
-- Search and task status filters
-- Mark tasks complete/incomplete
-- Add a task with a modal form
-- AI-inspired focus plan demo (clearly labelled as a demo; no external AI service is connected)
-- Empty state, toast feedback, hover states, and keyboard-friendly form controls
+## 🔥 Live Preview
 
-## Run locally
-1. Install Node.js (LTS).
-2. Extract this folder and open it in a terminal.
-3. Run `npm install`
-4. Run `npm run dev`
-5. Open the local URL printed by Vite.
+### 🖥️ Dashboard Overview
 
-## Suggested 18-hour portfolio plan
-1. 0–2h: Review the UI, run the project, and make a few design decisions.
-2. 2–5h: Recreate the key desktop screen in Figma; add mobile frame and components.
-3. 5–10h: Understand and customise the React components and CSS.
-4. 10–12h: Test responsive states and task interactions.
-5. 12–15h: Capture clean desktop/mobile screenshots and write the case study.
-6. 15–18h: Push to GitHub, deploy if possible, update the resume, and submit the application.
+![TaskFlow Dashboard](screenshots/dashboard.png)
 
-## Portfolio case study outline
-- Problem: task lists can feel scattered and difficult to prioritise.
-- Goal: create a calm workspace that makes progress, priorities, and next actions easy to scan.
-- Design choices: clear typographic hierarchy, restrained purple accent, card-based grouping, concise labels, responsive layout, and visible task states.
-- Interactions: search, filters, task completion, create-task modal, and focus-plan demo.
-- Next iteration: validate with users, improve keyboard navigation, and connect a real AI service only after choosing a safe backend/API approach.
+### 📋 Task Options
 
-## Honest project description for resume
-**TaskFlow — Responsive Productivity Dashboard | React, JavaScript, CSS**
-- Built a responsive productivity dashboard with task search, status filtering, completion toggles, and a create-task modal.
-- Designed a consistent visual system with reusable UI patterns, responsive layouts, empty states, and feedback messages.
-- Prototyped an AI-inspired task-prioritisation flow; the current focus-plan interaction is a demo and is not connected to an AI API.
+![Task Options](screenshots/task-options.png)
 
-## Figma handoff checklist
-Create frames for Desktop (1440px), Tablet (768px), and Mobile (390px). Build components for sidebar navigation, buttons, stat cards, task rows, priority badges, date tiles, and the create-task modal. Add prototype links for Overview → My tasks, New task → modal, and task checkbox → completed state. Include colour styles and text styles.
+### ➕ Add New Task
+
+![Add New Task](screenshots/add-task.png)
+
+---
+
+## ✨ Features
+
+- ✅ **Task Management**: Add tasks and mark them as completed or incomplete.
+- ✏️ **Edit Tasks**: Update task titles directly from the task menu.
+- 🎯 **Priority Management**: Change task priority between High, Medium, and Low.
+- 🗑️ **Delete Tasks**: Remove tasks with a confirmation prompt.
+- 🔎 **Task Search**: Find tasks using keywords.
+- 🗂️ **Task Filters**: Filter tasks by All Tasks, Pending, and Completed.
+- 📊 **Productivity Dashboard**: View task statistics and progress indicators.
+- 📅 **Upcoming Events**: Display upcoming schedule items.
+- 🤖 **Focus Plan UI**: View suggested tasks for better daily planning.
+- 🎨 **Modern Interface**: Clean layout, soft colors, and intuitive navigation.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: React.js, JavaScript (JSX)
+- **Styling**: CSS3
+- **Build Tool**: Vite
+- **Icons**: Lucide React
+
+---
+
+## 🌟 Highlights
+
+- ✅ Interactive task options menu
+- ✅ Dynamic task updates using React state
+- ✅ Task completion and priority controls
+- ✅ Search and filter functionality
+- ✅ Reusable UI components and organized styling
+- ✅ Productivity-focused dashboard design
+
+---
+
+## 🧠 What I Learned
+
+- React components and JSX
+- State management using `useState`
+- Rendering lists using `map()` and filtering with `filter()`
+- Handling user interactions with event handlers
+- Styling dashboard layouts with CSS
+- Building interactive UI elements and feedback messages
+
+---
+
+## 🚀 Future Improvements
+
+- 🤖 Integrate a real AI service for personalized focus plans
+- 💾 Add persistent storage so tasks remain after refreshing
+- 👤 Implement user authentication
+- 📅 Add functional calendar integration and reminders
+- 📱 Further improve mobile responsiveness and accessibility
+
+---
+
+## 👩‍💻 About Me
+
+Hi, I'm **Sunita Raut**, an aspiring frontend developer interested in **UI/UX design, web development, and interactive user experiences**.
+
+
+
+
+
