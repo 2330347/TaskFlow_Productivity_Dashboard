@@ -10,7 +10,7 @@ A modern, clean, and interactive productivity dashboard built with **React**, **
 
 ### 📋 Task Options
 
-![Task Options](screenshots/task-options.png)
+![Task Options](<image/Task Options.png>)
 
 ### ➕ Add New Task
 
