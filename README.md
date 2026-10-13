@@ -6,7 +6,7 @@ A modern, clean, and interactive productivity dashboard built with **React**, **
 
 ### 🖥️ Dashboard Overview
 
-![TaskFlow Dashboard](screenshots/dashboard.png)
+![TaskFlow Dashboard](<image/Dashboard Overview.png>)
 
 ### 📋 Task Options
 
