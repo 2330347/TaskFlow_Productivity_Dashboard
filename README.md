@@ -14,7 +14,7 @@ A modern, clean, and interactive productivity dashboard built with **React**, **
 
 ### ➕ Add New Task
 
-![Add New Task](screenshots/add-task.png)
+![Create a Task](<image/Create a task.png>)
 
 ---
 
